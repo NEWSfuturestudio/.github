@@ -1,5 +1,3 @@
-Profile config for NEWfutureSstudio. Powered by 0x3f3f3f3f.（doge
-
 <div align="center">
   
   <h1>NEWSfuturEStudio</h1>
