@@ -45,7 +45,7 @@
 
 - **发现 Bug 或想要新功能？** 请直接在对应仓库提交 [Issue](https://github.com/)。
 - **想参与贡献？** 欢迎提交 Pull Request！
-- **邮箱**：`[你的邮箱，比如 Z_J_YQWQ@outlook.com]`
+- **邮箱**：`[Z_J_YQWQ@outlook.com]`
 
 ---
 <div align="center">
